@@ -1,5 +1,7 @@
 # NivelAzo 
 
+<img width="1024" height="1536" alt="logo" src="https://github.com/user-attachments/assets/7b918506-b785-44b4-8841-aa52e3807515" />
+
 Esta es una pequeña aplicación Android simple que utiliza el acelerómetro para mostrar un nivel virtual. Permite calibrar y mostrar una "bola" que indica el nivel en la pantalla. Diseñada para Android (Kotlin/Java, Gradle).
 
 ## Características
@@ -11,6 +13,8 @@ Esta es una pequeña aplicación Android simple que utiliza el acelerómetro par
 - Soporte mínimo para pruebas y ejecución desde Android Studio.
 
 ## Requisitos
+
+<img width="398" height="881" alt="NivelAzon-funcionando" src="https://github.com/user-attachments/assets/1e8494b6-e434-4b13-85b7-d1e52d2dfedd" />
 
 - Sistemas: Linux (desarrollo).
 - Android Studio Narwhal 3 Feature Drop | 2025.1.3 (recomendado).
